@@ -54,7 +54,7 @@ A machine learning-powered web application that classifies SMS messages as spam 
    streamlit run app.py
    ```
 
-Preview of the app can be accesses from [here](https://spam-guard.streamlit.app/)
+Preview of the app can be accessed from [here](https://spam-guard.streamlit.app/)
 
 ---
 
